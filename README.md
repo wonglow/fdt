@@ -1,3 +1,9 @@
+WARNING - This is for my experiment. You should use the official FDT. 
+
+Aims:
+1) Compile to native using Graalvm 
+2) Encryption
+
 FDT is an Application for Efficient Data Transfers which is capable of reading and writing at disk speed over wide area networks (with standard TCP). It is written in Java, runs an all major platforms and it is easy to use.
 
 FDT is based on an asynchronous, flexible multithreaded system and is using the capabilities of the Java NIO libraries. Its main features are:
